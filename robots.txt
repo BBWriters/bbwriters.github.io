@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbwriters.github.io/sitemap.xml
